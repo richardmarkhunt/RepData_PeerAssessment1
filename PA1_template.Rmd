@@ -18,7 +18,7 @@ options(scipen = 2, digits = 0)
 
 This report has been prepared to share observations of chararterics and answer specific questions relating to the data.
 
-### R packages used in this report & sessionInfo
+### R packages used in this report and sessionInfo
 
 The report requires the use of a number of R packages to be loaded to satisfactorliy complete the analysis.
 
